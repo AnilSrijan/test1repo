@@ -1,0 +1,13 @@
+{
+    "credential": {
+        "username":"jayjitraj jadeja",
+        "password":"srijan123"
+    },
+    "url" : "http://dev.classicdriver.com/api/cars",
+    "req": {
+        "type":"car",
+        "condition":"1",
+		"title":"car_testing",
+		"status":"1"
+    }
+}

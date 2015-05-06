@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataelements>
+	<variable>
+		<titleName>Car Details</titleName>
+	</variable>
+
+	<variable dataset="xxxa">
+		<titleName>Banner Node 2</titleName>
+	</variable>
+
+	<listVariable>
+		<uiListVariable>
+
+		</uiListVariable>
+
+
+		<jsonListVariable>
+			<var>price,amount,jsonArray</var>      
+			<var>title</var>
+			<var>img</var>
+			<var>nid</var>
+			<!-- <var>price,currency,jsonArray</var>
+			<var>clubbing1</var>
+			 -->
+		</jsonListVariable>
+		
+		<clubbing1> 
+						<var>currency</var>      
+						<var>amount</var>
+		</clubbing1>
+		
+		<clubbing2> 
+						<var>currency</var>      
+		</clubbing2>
+
+	</listVariable>
+
+
+</dataelements>
